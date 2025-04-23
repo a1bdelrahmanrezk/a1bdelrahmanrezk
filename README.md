@@ -13,7 +13,7 @@
 <div>
 <p align="left"><br> Full Stack Web Developer with a passion for developing innovative web applications that expedite the efficiency and effectiveness of organizational success. Well-versed in technology and writing code to create systems that are reliable and user-friendly. Also has the proven ability to motivate, educate, and collaborate effectively to build web applications and effectively track changes. Confident communicator, strategic thinker, and innovative creator to develop software that is customized to meet a company’s organizational needs, highlight their core competencies, and further their success.</p>
 Well-versed in software tools including Laravel,RESTful APIs, microservices, PHP, MySQL, Bootstrap, JQuery, JavaScript, AJAX, OOP, HTML and CSS. Skilled at reading and writing code . Great ability to build and optimize database design, schema and queries . Confident problem-solving abilities to overcome glitches with creative solutions that are strategically designed to last long-term . Strong communication skills and the ability to listen carefully to user feedback to determine modifications for optimal user-function.. Fast and eager learner for new technologies .
-</div>
+</div><br/><br/>
 <div style="margin-top:10px;" align="center">
   <a href="https://drive.google.com/uc?export=download&id=1QXLV8zrEDjDUuiJ0p5mNcoqN4fppEa-5">
     <img src="https://img.shields.io/badge/Download_CV-0055FF?style=for-the-badge&logo=google-drive&logoColor=white&labelColor=0055FF&color=white&borderRadius=8px">
