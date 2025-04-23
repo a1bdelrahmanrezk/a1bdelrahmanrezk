@@ -5,20 +5,24 @@
 </div>
 
 ---
-```diff
-+ 🎓 Bachelor's degree in Computer and Information Science - Ain Shams University
-+ 🎖️ Military Service: Completed mandatory service
-+ 💻 Full-Stack Developer | Laravel Specialist
-```
-<div>
+<div style="margin-bottom:15px;">
+<div style="background: #0d1117; padding: 16px; border-radius: 8px; border-left: 4px solid #58a6ff">
+  <div style="font-size: 1.1em; color: #c9d1d9; line-height: 2.2; font-family: -apple-system, BlinkMacSystemFont, sans-serif">
+    <span style="color: #58a6ff">+</span> 🎓 <strong style="color: #ffffff">Bachelor's degree in Computer and Information Science</strong> - Ain Shams University<br>
+    <span style="color: #58a6ff">+</span> 🎖️ <strong style="color: #ffffff">Military Service:</strong> Completed mandatory service<br>
+    <span style="color: #58a6ff">+</span> 💻 <strong style="color: #ffffff">Full-Stack Developer</strong> | Laravel Specialist
+  </div>
+</div>
+
+
 <p align="left"><br> Full Stack Web Developer with a passion for developing innovative web applications that expedite the efficiency and effectiveness of organizational success. Well-versed in technology and writing code to create systems that are reliable and user-friendly. Also has the proven ability to motivate, educate, and collaborate effectively to build web applications and effectively track changes. Confident communicator, strategic thinker, and innovative creator to develop software that is customized to meet a company’s organizational needs, highlight their core competencies, and further their success.</p>
 Well-versed in software tools including Laravel,RESTful APIs, microservices, PHP, MySQL, Bootstrap, JQuery, JavaScript, AJAX, OOP, HTML and CSS. Skilled at reading and writing code . Great ability to build and optimize database design, schema and queries . Confident problem-solving abilities to overcome glitches with creative solutions that are strategically designed to last long-term . Strong communication skills and the ability to listen carefully to user feedback to determine modifications for optimal user-function.. Fast and eager learner for new technologies .
 </div>
 <div style="margin-top:10px;" align="center">
-  <a href="https://drive.google.com/uc?export=download&id=1QXLV8zrEDjDUuiJ0p5mNcoqN4fppEa-5">
+  <a href="https://drive.google.com/uc?export=download&id=1QXLV8zrEDjDUuiJ0p5mNcoqN4fppEa-5" target="_blank">
     <img src="https://img.shields.io/badge/Download_CV-0055FF?style=for-the-badge&logo=google-drive&logoColor=white&labelColor=0055FF&color=white&borderRadius=8px">
   </a>
-  <a href="https://drive.google.com/file/d/1QXLV8zrEDjDUuiJ0p5mNcoqN4fppEa-5/view?usp=sharing" style="margin-left: 15px;">
+  <a href="https://drive.google.com/file/d/1QXLV8zrEDjDUuiJ0p5mNcoqN4fppEa-5/view?usp=sharing" style="margin-left: 15px;"target="_blank">
     <img src="https://img.shields.io/badge/View_CV-4285F4?style=for-the-badge&logo=google-drive&logoColor=white&labelColor=0099CC&color=0099CC&borderRadius=8px" alt="View CV">
   </a>
 </div>
@@ -26,13 +30,13 @@ Well-versed in software tools including Laravel,RESTful APIs, microservices, PHP
 ## 🌐 Connect With me
 <br/>
 <div align="center">
-  <a href="https://www.linkedin.com/in/a1bdelrahmanrezk/">
+  <a href="https://www.linkedin.com/in/a1bdelrahmanrezk/" target="_blank">
     <img src="https://img.shields.io/badge/Connect on LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:a1bdelrahmanrezk@gmail.com" style="margin-left: 15px;">
+  <a href="mailto:a1bdelrahmanrezk@gmail.com" style="margin-left: 15px;" target="_blank">
     <img src="https://img.shields.io/badge/Email me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://www.facebook.com/a1bdelrahmanrezk" style="margin-left: 15px;">
+  <a href="https://www.facebook.com/a1bdelrahmanrezk" style="margin-left: 15px;" target="_blank">
     <img src="https://img.shields.io/badge/Find_on_Facebook-0055FF?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
   </a>
 </div>
