@@ -5,7 +5,7 @@
 </div>
 
 ---
-<div>
+<div style="margin-bottom:15px;">
 <div style="background: #0d1117; padding: 16px; border-radius: 8px; border-left: 4px solid #58a6ff">
   <div style="font-size: 1.1em; color: #c9d1d9; line-height: 2.2; font-family: -apple-system, BlinkMacSystemFont, sans-serif">
     <span style="color: #58a6ff">+</span> 🎓 <strong style="color: #ffffff">Bachelor's degree in Computer and Information Science</strong> - Ain Shams University<br>
