@@ -5,19 +5,17 @@
 </div>
 
 ---
-<div style="margin-bottom:15px;">
+<div>
 <div style="background: #0d1117; padding: 16px; border-radius: 8px; border-left: 4px solid #58a6ff">
   <div style="font-size: 1.1em; color: #c9d1d9; line-height: 2.2; font-family: -apple-system, BlinkMacSystemFont, sans-serif">
     <span style="color: #58a6ff">+</span> 🎓 <strong style="color: #ffffff">Bachelor's degree in Computer and Information Science</strong> - Ain Shams University<br>
     <span style="color: #58a6ff">+</span> 🎖️ <strong style="color: #ffffff">Military Service:</strong> Completed mandatory service<br>
     <span style="color: #58a6ff">+</span> 💻 <strong style="color: #ffffff">Full-Stack Developer</strong> | Laravel Specialist
   </div>
-</div>
-
-
-<p align="left"><br> Full Stack Web Developer with a passion for developing innovative web applications that expedite the efficiency and effectiveness of organizational success. Well-versed in technology and writing code to create systems that are reliable and user-friendly. Also has the proven ability to motivate, educate, and collaborate effectively to build web applications and effectively track changes. Confident communicator, strategic thinker, and innovative creator to develop software that is customized to meet a company’s organizational needs, highlight their core competencies, and further their success.</p>
+</div><br/>
+<p align="left">Full Stack Web Developer with a passion for developing innovative web applications that expedite the efficiency and effectiveness of organizational success. Well-versed in technology and writing code to create systems that are reliable and user-friendly. Also has the proven ability to motivate, educate, and collaborate effectively to build web applications and effectively track changes. Confident communicator, strategic thinker, and innovative creator to develop software that is customized to meet a company’s organizational needs, highlight their core competencies, and further their success.</p>
 Well-versed in software tools including Laravel,RESTful APIs, microservices, PHP, MySQL, Bootstrap, JQuery, JavaScript, AJAX, OOP, HTML and CSS. Skilled at reading and writing code . Great ability to build and optimize database design, schema and queries . Confident problem-solving abilities to overcome glitches with creative solutions that are strategically designed to last long-term . Strong communication skills and the ability to listen carefully to user feedback to determine modifications for optimal user-function.. Fast and eager learner for new technologies .
-</div>
+</div><br/>
 <div style="margin-top:10px;" align="center">
   <a href="https://drive.google.com/uc?export=download&id=1QXLV8zrEDjDUuiJ0p5mNcoqN4fppEa-5" target="_blank">
     <img src="https://img.shields.io/badge/Download_CV-0055FF?style=for-the-badge&logo=google-drive&logoColor=white&labelColor=0055FF&color=white&borderRadius=8px">
