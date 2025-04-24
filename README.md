@@ -48,7 +48,7 @@ Well-versed in software tools including Laravel,RESTful APIs, microservices, PHP
 </p>
 
 <!-- GitHub Streak -->
-<p>&nbsp;<img align="center" src="https://streak-stats.demolab.com?user=a1bdelrahmanrezk&theme=dark&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></p>
+<p>&nbsp;<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats--bice.vercel.app?user=a1bdelrahmanrezk&theme=highcontrast&border_radius=6&date_format=M%20j%5B%2C%20Y%5D&background=70%2C000000%2C004A4F" alt="GitHub Streak" /></a></p>
 
 <!-- Top Languages -->
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a1bdelrahmanrezk&layout=compact&theme=vision-friendly-dark" alt="Top Languages" /></p>
