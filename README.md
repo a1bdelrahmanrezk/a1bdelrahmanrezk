@@ -44,7 +44,7 @@ Well-versed in software tools including Laravel,RESTful APIs, microservices, PHP
   <img alt="Total Commits" src="https://badges.pufler.dev/commits/all/a1bdelrahmanrezk?color=blueviolet&style=flat&logo=git" />
   <img alt="Stars" src="https://img.shields.io/github/stars/a1bdelrahmanrezk?style=flat&logo=github&color=blueviolet" />
 </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=a1bdelrahmanrezk&show_icons=true&locale=en&theme=dark" alt="a1bdelrahmanrezk" />
+<p>&nbsp;<img align="center" src="https://a1-github-readme-stats-card.vercel.app/api?username=a1bdelrahmanrezk&show_icons=true&locale=en&theme=dark" alt="a1bdelrahmanrezk" />
 </p>
 
 <!-- GitHub Streak -->
