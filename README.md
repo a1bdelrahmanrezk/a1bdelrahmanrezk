@@ -15,10 +15,10 @@
 Well-versed in software tools including Laravel,RESTful APIs, microservices, PHP, MySQL, Bootstrap, JQuery, JavaScript, AJAX, OOP, HTML and CSS. Skilled at reading and writing code . Great ability to build and optimize database design, schema and queries . Confident problem-solving abilities to overcome glitches with creative solutions that are strategically designed to last long-term . Strong communication skills and the ability to listen carefully to user feedback to determine modifications for optimal user-function.. Fast and eager learner for new technologies .
 </div><br/>
 <div style="margin-top:10px;" align="center">
-  <a href="https://drive.google.com/uc?export=download&id=1QXLV8zrEDjDUuiJ0p5mNcoqN4fppEa-5">
+  <a href="https://drive.google.com/uc?export=download&id=1CkZ1M3qlMmud2u_kcfkEWYAfI2rkxvya">
     <img src="https://img.shields.io/badge/Download_CV-0055FF?style=for-the-badge&logo=google-drive&logoColor=white&labelColor=0055FF&color=white&borderRadius=8px">
   </a>
-  <a href="https://drive.google.com/file/d/1QXLV8zrEDjDUuiJ0p5mNcoqN4fppEa-5/view?usp=sharing" style="margin-left: 15px;">
+  <a href="https://drive.google.com/file/d/1CkZ1M3qlMmud2u_kcfkEWYAfI2rkxvya/view?usp=drive_link" style="margin-left: 15px;">
     <img src="https://img.shields.io/badge/View_CV-4285F4?style=for-the-badge&logo=google-drive&logoColor=white&labelColor=0099CC&color=0099CC&borderRadius=8px" alt="View CV">
   </a>
 </div>
