@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=3000&pause=1000&color=10C2F7&vCenter=true&width=487&lines=Abdelrahman+Rezk)](https://git.io/typing-svg)
 
 <div align="center">
-  <h3>🚀 A Passionate Software Developer | 🧠 Full-Stack Developer | 🏆 Competitive Programmer</h3>
+  <h3>🚀  Software Engineer | 🧠 Full-Stack Developer | 🏆 Competitive Programmer</h3>
 </div>
 
 ---
